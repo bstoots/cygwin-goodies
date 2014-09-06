@@ -1,0 +1,7 @@
+ncurses
+openssh
+openssl
+ncurses
+curl
+vim
+git
